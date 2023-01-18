@@ -15,8 +15,10 @@ To fix the issue with the Tflite plugin follow the steps below:
 4. Within the android {...} block, there is a dependencies {...} block.
 5. Replace the dependencies {...} block with the following code:
 
-dependencies {  
-implementation 'org.tensorflow:tensorflow-lite:+'  
-implementation 'org.tensorflow:tensorflow-lite-gpu:+'  
-}
+    dependencies {  
+        implementation 'org.tensorflow:tensorflow-lite:+'  
+        implementation 'org.tensorflow:tensorflow-lite-gpu:+'  
+    }
 ***
+
+![tflite build gradle location](https://user-images.githubusercontent.com/44937151/213306152-6d997c51-f49a-429b-87f5-c8c152c6800f.jpg)
