@@ -1,0 +1,170 @@
+Abyssinian Cat
+Bengal Cat
+Birman Cat
+Bombay Cat
+British Shorthair Cat
+Egyptian Mau Cat
+Maine Coon Cat
+Persian Cat
+Ragdoll Cat
+Russian Blue Cat
+Siamese Cat
+Sphynx Cat
+American Bobtail Cat
+American Curl Cat
+American Shorthair Cat
+Applehead Siamese Cat
+Balinese Cat
+Burmese Cat
+Calico Cat
+Chartreux Cat
+Cornish Rex Cat
+Devon Rex Cat
+Dilute Calico Cat
+Dilute Tortoiseshell Cat
+Exoitc Shorthair Cat
+Hemingway Polydactyl Cat
+Havana Cat
+Himalayan Cat
+Japanese Bobtail Cat
+Javanese Cat
+Korat Cat
+Manx Cat
+Munchkin Cat
+Nebelung Cat
+Norewegian Forest Cat
+Ocicat
+Oriental Long Hair Cat
+Oriental Short Hair Cat
+Oriental Tabby Cat
+Pixie-bob Cat
+Ragamuffin Cat
+Scottish Fold Cat
+Siberian Cat
+Snowshoe Cat
+Tabby Cat
+Tonkinese Cat
+Torbie Cat
+Tortoiseshell Cat
+Turkish Angora Cat
+Turkish Van Cat
+Tuxedo Cat
+Chihuahua
+Japanese Spaniel
+Maltese Dog
+Pekingese
+Shih Tzu
+Blenheim Spaniel
+Papillon
+Toy Fox Terrier
+Rhodesian Ridgeback
+Afghan Hound
+Basset Hound
+Beagle
+Bloodhound
+Bluetick Coonhound
+Black and Tan Coonhound
+Treeing Walker Coonhound
+English Foxhound
+Redbone Coonhound
+Russian Hunting Sighthound
+Irish Wolfhound
+Italian Greyhound
+Whippet
+Ibizan Hound
+Norwegian Elkhound
+Otterhound
+Saluki
+Scottish Deerhound
+Weimaraner
+Staffordshire Bull Terrier
+American Staffordshire Terrier
+Bedlington Terrier
+Border Terrir
+Kerry Blue Terrier
+Irish Terrier
+Norfolk Terrier
+Norwich Terrier
+Yorkshire Terrier
+Wire Fox Terrier
+Lakeland Terrier
+Sealyham Terrier
+Airedale Terrier
+Cairn Terrier
+Australian Terrier
+Dandie Dinmont Terrier
+Boston Bull Terrier
+Miniature Schnauzer
+Giant Schnauzer
+Standard Schnauzer
+Scottish Terrier
+Tibetan Terrier
+Silky Terrier
+Soft-Coated Wheaten Terrier
+West Highland White Terrier
+Lhasa Apso
+Flat-Coated Retriever
+Curly-Coated Retriever
+Golden Retriever
+Labrador Retriever
+Chesapeake Bay Retriever
+German Shorthaired Pointer
+Vizsla
+English Setter
+Gordon Setter
+Brittany Spaniel
+Clumber Spaniel
+English Springer Spaniel
+Welsh Springer Spaniel
+Cocker Spaniel
+Sussex Spaniel
+Irish Water Spaniel
+Kuvasz
+Schipperke
+Groenendael
+Belgian Malinois
+Briard
+Australian Kelpie
+Komondor
+Old English Sheepdog
+Shetland Sheepdog
+Collie
+Border Collie
+Bouvier des Flandres
+Rottweiler
+German Shepherd
+Doberman
+Miniature Pinscher
+Greater Swiss Mountain Dog
+Bernese Mountain Dog
+Appenzeller Sennenhund
+Entlebucher Mountain Dog
+Boxer
+Bullmastiff
+Tibetan Mastiff
+French Bulldog
+Great Dane
+Saint Bernard
+Eskimo Dog
+Malamute
+Siberian Husky
+Affenpinscher
+Basenji
+Pug
+Leonberger
+Newfoundland
+Greate Pyrenees
+Samoyed
+Pomeranian
+Chow Chow
+Keeshond
+Brabancon Griffon
+Pembroke Welsh Corgi
+Cardigan Welsh Corgi
+Toy Poodle
+Miniature Poodle
+Standard Poodle
+Mexican Hairless
+Dingo
+Dhole
+Irish Setter
